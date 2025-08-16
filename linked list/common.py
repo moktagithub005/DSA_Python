@@ -51,5 +51,5 @@ def take_input_better():
     
     return head
 
-newhead = take_input_be()
+newhead = take_input_better()
 print_LL(newhead)
